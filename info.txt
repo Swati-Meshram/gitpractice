@@ -1,1 +1,10 @@
 This is a git info file.
+Started with sudo apt-get install git
+Created an account on GitHub
+Then on the terminal, git config --global user.name "Your username"
+git config --global user.email "Your email address"
+On GitHub page, make a new repository(public). Give it a name. Done
+Follow each command on that page on your terminal.
+This gets you started on git by creating a README file, adding it and committing it.
+Then you create a url mapping to master repo with name as origin
+This lets you push your changes onto master branch.
